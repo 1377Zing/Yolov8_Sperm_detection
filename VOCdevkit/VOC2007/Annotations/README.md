@@ -1,0 +1,1 @@
+Store the label file, .xml files.

@@ -1,0 +1,1 @@
+Store the training index file, which is generated using voc_annotation.py. 
