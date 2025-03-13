@@ -1,5 +1,3 @@
-**YOLOv8 Spermatozoa Tracking**
-
 **Required Environment**
 
 - Python 3.7
